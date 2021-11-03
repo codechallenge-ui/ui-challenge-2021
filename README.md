@@ -1,6 +1,6 @@
 # Code Challenge
 
-Your task is to create a confirmation modal with two buttons "confirm" and "cancel".
+Your task is to create a confirmation modal from scratch with two buttons "confirm" and "cancel".
 
 The confirmation modal will:
 
@@ -25,6 +25,8 @@ f) Optional: Create 2 tests, one that validates your data fetching outcome and a
 * Once complete, push your code to your forked repo then submit a PR to main within 72 hours of receiving this challenge
 
 ## General Guidelines
+
+* You may import a data fetching library such as axios. No other external libraries.
 
 * We encourage you to use create-react-app for your boilerplate to hit the ground running
 
